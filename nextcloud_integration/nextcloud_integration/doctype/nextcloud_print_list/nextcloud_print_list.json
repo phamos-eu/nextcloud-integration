@@ -21,15 +21,16 @@
   },
   {
    "fieldname": "print_format",
-   "fieldtype": "Select",
+   "fieldtype": "Link",
    "in_list_view": 1,
    "label": "Print Format",
+   "options": "Print Format",
    "reqd": 1
   }
  ],
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2022-04-25 00:54:07.993864",
+ "modified": "2022-04-25 06:54:07.993864",
  "modified_by": "Administrator",
  "module": "Nextcloud Integration",
  "name": "NextCloud Print List",
